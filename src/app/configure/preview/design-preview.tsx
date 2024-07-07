@@ -74,7 +74,7 @@ export default function DesignPreview({
 		},
 	});
 
-	useEffect(() => setShowConfetti(true));
+	useEffect(() => setShowConfetti(true), []);
 
 	const handleCheckout = () => {
 		if (user) {

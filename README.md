@@ -14,8 +14,6 @@ Tired of boring, generic iPhone cases? Unleash your inner designer with bespokec
 
 **Bonus:** Deployed on Vercel for scalability and global reach.
 
-**Readme.md:**
-
 # bespokecase: Craft Your Dream iPhone Case with Bespoke Flair!
 
 bespokecase is a dynamic web application built with cutting-edge technologies that empowers you to design and order personalized iPhone cases that truly represent your unique style.
